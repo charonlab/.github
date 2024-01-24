@@ -1,4 +1,4 @@
-# AbyssPHP templates
+# Charon Lab templates
 
-This repository contains the default community health files for the [abyssphp](https://github.com/abyssphp) organization.
+This repository contains the default community health files for the [charonlab](https://github.com/charonlab) organization.
 
